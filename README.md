@@ -27,3 +27,4 @@ The third and final sheet took a quick look at changes in growth rates for the b
   <img src="https://github.com/amethystaurora-robo/Climate_change_analysis/blob/main/bivalves.png"/>
 </p>
 
+While these graphs only point to overall trends in climate change and do not draw any definitve conclusions, it would be interesting to examine the data further to determine how relevant they are in studying climate tipping points. Had I gotten the PhD project, I would have spent 3.5 years using ML and other techniques to assess indicators of early warning signals. Oh well. 🤷‍♀️
