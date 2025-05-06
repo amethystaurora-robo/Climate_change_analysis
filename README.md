@@ -6,7 +6,7 @@ From the National Oceanic and Atmospheric Administration Wesbite (NOAA), I downl
 
 Both of these can be used as indications of overall ocean health, and significant trends can even point to an early warning indicator of a climate tipping point AKA a point of no return for the climate. Think when Greenland's ice sheet reaches a point of melting that it cannot recover, or the point at which coral bleaching is so extreme that coral reefs will never come back. Really encouraging stuff. (Kind of like my attempt to find a PhD supervisor 😩)
 
-The Subpolar Gyre is another area where climate tipping points are being studied. A collapse of the Subpolar Gyre could have implications on weather, sea levls, and global ocean circulation.
+The Subpolar Gyre is another area where climate tipping points are being studied. A collapse of the Subpolar Gyre could have implications on weather, sea levels, and global ocean circulation.
 
 The first worksheet takes a look at average sea surface temperature in each area in the Subpolar Gyre. When I super-imposed the warm and cold currents on top of the area, I was able to find a trend.
 
