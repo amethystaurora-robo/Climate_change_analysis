@@ -2,7 +2,7 @@
 
 This is an exploratory analysis I conducted for a PhD interview on climate tipping points. 
 
-The two datasets come from the National Oceanic and Atmospheric Administration (NOAA). One is on average global sea surface temperature, and another was on bivalve (*Arctica islandica*) growth rates.
+The two datasets come from the National Oceanic and Atmospheric Administration (NOAA). One is on average global sea surface temperature, and the other was on bivalve (*Arctica islandica*) growth rates.
 
 Both of these can be used as indications of overall ocean health, and significant trends can even point to an early warning indicator of a climate tipping point. (Think when Greenland's ice sheet reaches a point of melting that it cannot recover, or the point at which coral bleaching is so extreme that coral reefs will never come back).
 
