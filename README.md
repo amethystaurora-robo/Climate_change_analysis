@@ -4,9 +4,7 @@ This is an exploratory analysis I conducted for a PhD interview on climate tippi
 
 The two datasets come from the National Oceanic and Atmospheric Administration (NOAA). One is on average global sea surface temperature, and the other was on bivalve (*Arctica islandica*) growth rates.
 
-Both of these can be used as indications of overall ocean health, and significant trends can even point to an early warning indicator of a climate tipping point. (Think when Greenland's ice sheet reaches a point of melting that it cannot recover, or the point at which coral bleaching is so extreme that coral reefs will never come back).
-
-The Subpolar Gyre is another area where climate tipping points are being studied. A collapse of the Subpolar Gyre could have implications on weather, sea levels, and global ocean circulation.
+Both of these can be used as indications of overall ocean health, and significant trends can even point to an early warning indicator of a climate tipping point. The tipping point focus in this study is the Subpolar Gyre. A collapse of the Subpolar Gyre could have implications on weather, sea levels, and global ocean circulation.
 
 The first worksheet takes a look at average sea surface temperature in each area in the Subpolar Gyre. When I super-imposed the warm and cold currents on top of the area, I was able to find a trend.
 
